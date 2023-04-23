@@ -1,6 +1,6 @@
 # Understanding Deep Neural Networks requires rethinking generalization
 
-## Experimenting with the CIFAR-10,ImageNet dataset to Validate Arguments discussed in the paper
+## Experimenting with the CIFAR-10 dataset to Validate Arguments discussed in the paper
 
 * Randomization Test : One of the key findings of the paper is that deep neural networks easily fit random noise. To validate this, we are training a neural network on a dataset where the labels are randomly assigned and evaluate its performance on the original test set.The random label test can be performed in two ways:
     
