@@ -19,3 +19,6 @@
 * Implicit Regularization Significance : The Authors also argues that implicit regularization techniques like Early Stopping , Batch Normalization , Stocastic Gradient Descent etc , only marginaly improve generalization error , and that the network is able to fit the training data even without these techniques. To validate this, we are training a neural network on a dataset with and without these techniques and evaluate its performance on the original test set . If the there is no significant difference in the accuracy of the network trained with and without these techniques , it supports the argument that the network is able to fit the training data even without these techniques
 
 
+
+## Differnet Architecture Trained Models Link : https://drive.google.com/drive/folders/1LIwLrrSPQfwEfjgv5i5qgZ3TjvVlMIM-?usp=share_link
+
